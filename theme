@@ -1,0 +1,48 @@
+Name=Jappix
+Description=Jappix smileys
+Icon=xmpp.png
+Author=ipatrol6010@yahoo.com
+
+
+# Following Jappix web client
+[XMPP]
+biggrin.png      :-D
+devil.png        ]:->
+coolglasses.png  8-)
+tongue.png       :-P
+smile.png        :-)
+wink.png         ;-)
+blush.png        :-$
+stare.png        :-|
+frowning.png     :-/
+oh.png           =-O
+unhappy.png      :-(
+cry.png          :'-(
+angry.png        :-@
+puke.png         :-!
+hugright.png     ({)
+hugleft.png      (})
+lion.png         :3
+pussy.png        (@)
+bat.png          :-[
+kiss.png         :-{}
+heart.png        <3
+brheart.png      </3
+flower.png       @}->--
+brflower.png     (W)
+thumbup.png      (Y)
+thumbdown.png    (N)
+lamp.png         (I)
+coffee.png       (C)
+drink.png        (D)
+beer.png         (B)
+boy.png          (Z)
+girl.png         (X)
+photo.png        (P)
+phone.png        (T)
+music.png        (8)
+cuffs.png        (%)
+mail.png         (E)
+rainbow.png      (R)
+star.png         (*)
+moon.png         (S)

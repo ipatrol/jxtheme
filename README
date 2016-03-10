@@ -1,0 +1,6 @@
+To create the Pidgin plugin, simply create a Gzipped tarball of the
+contents of the project, then follow the instructions for your version
+of Pidgin to install it.
+
+Copyright 2016. Terms are provided in the LICENSE file. Icons originally
+copied from the Jappix Project under the terms of said license.
